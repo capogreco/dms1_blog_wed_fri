@@ -5,6 +5,9 @@ snippet: This is an example of a first blog post.
 disable_html_sanitization: true
 ---
 
+
+🚀🚀🚀
+
 ![an example Digital Media class at RMIT](/w01s1/dms1_pfp.png)
 
 <iframe width="100%" height="300px" src="https://www.youtube.com/embed/lP26UCnoH9s?si=97-l4k7MAp5WcMhh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -12,6 +15,7 @@ disable_html_sanitization: true
 Some example text.
 
 🤯🤯🤯
+
 
 Hello, world!
 
